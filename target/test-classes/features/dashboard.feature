@@ -1,6 +1,6 @@
 @wip
 Feature:
 
-  Scenario: User go to dashboard
+  Scenario:
     Given user tries go the dashboard page
 
